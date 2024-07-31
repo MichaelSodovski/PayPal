@@ -9,7 +9,7 @@ function App() {
     <React.Fragment>
       <div className='app'>
         <PayPal></PayPal>
-        <img src={PayImage} alt="fuck you, pay me" />
+        <img src={PayImage} alt="fuck you, pay mee" />
       </div>
     </React.Fragment>
   );
